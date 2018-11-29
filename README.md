@@ -10,6 +10,10 @@ The main purpose is to provide simple examples for Git training.
 
 This is a simple web project, deployment can be done on any web server or even local file system.
 
+## Contributing
+
+Fork this repository and issue Pull Requests for review.
+
 ### Copyright
 
 2018 JorgeAndd
