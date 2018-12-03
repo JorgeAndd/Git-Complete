@@ -17,3 +17,4 @@ Fork this repository and issue Pull Requests for review.
 ### Copyright
 
 2018 JorgeAndd
+All rights reserved
