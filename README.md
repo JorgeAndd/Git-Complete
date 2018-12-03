@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for showing how to use Git and GitHub.
+Among other things, there is rebasing. There will be more in the future
 
 ## Purpose
 
