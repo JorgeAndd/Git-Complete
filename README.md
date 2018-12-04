@@ -18,5 +18,5 @@ Fork this repository and issue Pull Requests for review.
 
 ### Copyright
 
-2018 JorgeAndd
+Jason Taylor
 All rights reserved
